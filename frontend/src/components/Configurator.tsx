@@ -5,5 +5,5 @@ import {
   Star, Heart, Calendar
 } from 'lucide-react';
 
-// Composant principal complet avec toutes les étapes...
-// (contenu complet du composant précédemment créé)
+// Le composant complet du configurateur...
+// (contenu complet du composant)
